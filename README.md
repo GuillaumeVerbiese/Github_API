@@ -1,2 +1,2 @@
 # Github_API
-Site de recherche sur la base d'une API GitHub
+Site de recherche de repositories sur la base d'une API GitHub.
